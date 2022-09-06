@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <id>1</id>
+    <firstname>Dinindu</firstname>
+    <lastname>Chamikara</lastname>
+    <address>No. 640/57, Colombo Rd,, 2nd Kurana, Negombo.</address>
+  </user>
+  <user>
+    <id>2</id>
+    <firstname>Sample</firstname>
+    <lastname>sample2</lastname>
+    <address>sample</address>
+  </user>
+  
+</users>
